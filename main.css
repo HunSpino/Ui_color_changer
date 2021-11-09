@@ -5,3 +5,9 @@
 .hidden{
     visibility: hidden;
 }
+.szinvalaszto{
+    height: 30px;
+}
+.szoveg{
+    font-weight: bold;
+}
