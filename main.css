@@ -1,5 +1,7 @@
 .error {
     color: red;
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
-  
+.hidden{
+    visibility: hidden;
+}
