@@ -15,11 +15,12 @@
 }
 form{
     background-color: lightgray;
-    border-radius: 1em;
+    border-radius: 2em;
     
 }
 .tartalom{
     margin: 1em;
+    font-weight: bold;
 }
 .tartalom:first-child {
     padding-top: 0.8em;
