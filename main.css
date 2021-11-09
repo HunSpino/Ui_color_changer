@@ -8,6 +8,29 @@
 .szinvalaszto{
     height: 30px;
 }
-.szoveg{
-    font-weight: bold;
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    background-color: lightgray;
+    border-radius: 1em;
+    
+}
+.tartalom{
+    margin: 1em;
+}
+.tartalom:first-child {
+    padding-top: 0.8em;
+}
+.tartalom:last-child {
+    padding-bottom: 1em;
+    text-align: center;
+}
+input{
+    width: 90%;
+}
+input:last-child{
+    width: initial;
 }
